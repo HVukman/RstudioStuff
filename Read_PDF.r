@@ -1,3 +1,4 @@
+## File for reading PDFs
 library("pdftools")
 library("base")
 
